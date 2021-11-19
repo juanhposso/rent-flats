@@ -1,4 +1,4 @@
-import LogoHeader from './assets/livingRoom.webp';
+import LogoHeader from './assets/sala1.webp';
 
 function Header() {
 	return (
@@ -9,7 +9,7 @@ function Header() {
 				className="logo-header w-100 h-100 opacity-75"
 			/>
 			<h1 className="text-header position-absolute top-50 start-50 translate-middle text-white fw-bold lh-sm">
-				Estoy En <br /> <span className=""> Arriendo</span>
+				Estoy En <br /> <span> Arriendo</span>
 			</h1>
 		</header>
 	);

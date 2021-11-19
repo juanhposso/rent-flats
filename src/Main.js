@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react';
 import Description from './Description';
 
-function Main() {
+function Main({ data }) {
 	const [size, setSize] = useState(window.innerWidth);
 
 	const checkSize = () => {
@@ -22,7 +22,7 @@ function Main() {
 				{size < 768 ? 'Fotos' : 'Descripcion y Fotos'}
 			</h1>
 			<div className="line"></div>
-			<Description />
+			<Description data={data} />
 		</main>
 	);
 }
