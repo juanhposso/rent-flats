@@ -18,7 +18,3 @@ function CarouselItem({ data }) {
 }
 
 export default CarouselItem;
-
-/* <div className="carousel-item active" data-interval="false">
-			<img src={data[0].src} className="slide-img d-block" alt="sala." />
-		</div> */
