@@ -11,15 +11,15 @@ function Footer() {
 					<div className="col">
 						<h4 className="text-footer">
 							<span className="d-block">Juan David:</span>
-							<a href="tel:+573505470769" className="text-blue">
-								313 297 1709
+							<a href="tel:+573132179709" className="text-blue">
+								313 217 9709
 							</a>
 						</h4>
 					</div>
 					<div className="col">
 						<h4 className="text-footer">
 							<span className="d-block">Fabian Andres:</span>
-							<a href="tel:+573132971790" className="text-blue">
+							<a href="tel:+573188165194" className="text-blue">
 								318 816 5194
 							</a>
 						</h4>
